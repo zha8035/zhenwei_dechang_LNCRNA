@@ -5,3 +5,4 @@ memo 2014 12 07
 祯威 读一下 玉米那篇，看下数据集是不是都下载地到
 张老师 看一下 那个 排列组合 数据过万 的问题
 周老师 继续思考现有基础上怎么创新出成果
+https://github.com/zha8035/zhenwei_dechang_LNCRNA.git
